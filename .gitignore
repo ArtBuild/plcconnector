@@ -1,0 +1,11 @@
+/.vs
+/__vm
+/Debug
+/Release
+PLCconnector.sln
+PLCconnector.vcxproj
+PLCconnector.vcxproj.filters
+PLCconnector.vcxproj.user
+resource.h
+PLCconnector.aps
+PLCconnector.rc
